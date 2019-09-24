@@ -1,0 +1,17 @@
+Package: com.valo.faker
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Valo
+Depends: mobilesubstrate
+Filename: ./com.valo.faker_1.0.1_iphoneos-arm.deb
+Size: 2998916
+MD5sum: cc7e3f67a9af1c803d4dea14d3a50569
+SHA1: f6007d5a3bcbc478c9cc26ff5d3f213f85acc9f4
+SHA256: 35c059e91666787fa20c63ebf50f1367e1ea403e33685ac08fe947fcd9687729
+Section: System
+Homepage: https://github.com/pozi119
+Description: Faker
+Author: Valo
+Depiction: Tool for fake device infomation
+Name: Faker
+

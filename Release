@@ -1,7 +1,7 @@
-Origin: Faker
+rigin: Faker
 Label: Faker
 Suite: stable
-Version: 1.0
+Version: 1.0.2
 Codename: Faker
 Architectures: iphoneos-arm
 Components: main

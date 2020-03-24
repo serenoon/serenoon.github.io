@@ -1,4 +1,4 @@
-rigin: Faker
+Origin: Faker
 Label: Faker
 Suite: stable
 Version: 1.0.2
@@ -6,4 +6,13 @@ Codename: Faker
 Architectures: iphoneos-arm
 Components: main
 Description: Faker
+
+Origin: vqqLib
+Label: vqqLib
+Suite: stable
+Version: 1.0.0-1
+Codename: vqqLib
+Architectures: iphoneos-arm
+Components: main
+Description: vqqLib
 

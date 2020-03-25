@@ -16,16 +16,16 @@ Depiction: Tool for fake device infomation
 Name: Faker
 
 Package: com.valo.vqqlib
-Version: 1.0.0-1
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Valo
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./com.valo.vqqlib_1.0.0_iphoneos-arm.deb
-Size: 8068
-MD5sum: bc3811a9fe29fd2f3757796db1a80f43
-SHA1: f40468b91b648ffe46ee7896e6e0f4384951a735
-SHA256: 118aaa896875eb96817e4bcbd716332e3745b0d2de84643558174634e46dcd90
+Filename: ./com.valo.vqqlib_1.0.1-1_iphoneos-arm.deb
+Size: 9506
+MD5sum: 11db8f00464374b155169df7bd0ea52b
+SHA1: f88a02595c81ba1affeb9933671f47fc83239dd4
+SHA256: 9f47e7eab89a24b32243aca2d33b8d1310eefa3d654ca23ac680d1b1167f0354
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Valo
